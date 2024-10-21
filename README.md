@@ -60,7 +60,6 @@ Click on visuals to drill through to detailed sales information.
 
 Future Improvements:  Implement additional analytics features, such as predictive analysis , Enhance the dashboard with more custom visuals  &    Integrate user feedback for continuous improvement.
 
-License: This project is licensed under the MIT License
 
 
 Note: As I am a new aspiring Data enthusiastic, feel free to provide feedback any changes and Improvements needed.
